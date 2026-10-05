@@ -1,0 +1,314 @@
+[
+  {
+    "id": 5,
+    "image": "soccer.svg",
+    "code_name": "soccer",
+    "order": 5,
+    "num_matches": 414,
+    "num_live_matches": 13
+  },
+  {
+    "id": 10,
+    "image": "tennis.svg",
+    "code_name": "tennis",
+    "order": 15,
+    "num_matches": 567,
+    "num_live_matches": 21
+  },
+  {
+    "id": 6,
+    "image": "basketball.svg",
+    "code_name": "basketball",
+    "order": 20,
+    "num_matches": 43,
+    "num_live_matches": 0
+  },
+  {
+    "id": 15,
+    "image": "american-football.svg",
+    "code_name": "american-football",
+    "order": 21,
+    "num_matches": 1,
+    "num_live_matches": 0
+  },
+  {
+    "id": 19,
+    "image": "baseball.svg",
+    "code_name": "baseball",
+    "order": 22,
+    "num_matches": 73,
+    "num_live_matches": 4
+  },
+  {
+    "id": 11,
+    "image": "ice-hockey.svg",
+    "code_name": "ice-hockey",
+    "order": 23,
+    "num_matches": 63,
+    "num_live_matches": 0
+  },
+  {
+    "id": 12,
+    "image": "handball.svg",
+    "code_name": "handball",
+    "order": 25,
+    "num_matches": 36,
+    "num_live_matches": 0
+  },
+  {
+    "id": 9,
+    "image": "volleyball.svg",
+    "code_name": "volleyball",
+    "order": 30,
+    "num_matches": 36,
+    "num_live_matches": 1
+  },
+  {
+    "id": 38,
+    "image": "mma.svg",
+    "code_name": "mma",
+    "order": 33,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 65,
+    "image": "esport.svg",
+    "code_name": "esport",
+    "order": 34,
+    "num_matches": 20,
+    "num_live_matches": 0
+  },
+  {
+    "id": 22,
+    "image": "table-tennis.svg",
+    "code_name": "table-tennis",
+    "order": 41,
+    "num_matches": 1052,
+    "num_live_matches": 17
+  },
+  {
+    "id": 23,
+    "image": "rugby.svg",
+    "code_name": "rugby",
+    "order": 45,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 21,
+    "image": "snooker.svg",
+    "code_name": "snooker",
+    "order": 47,
+    "num_matches": 16,
+    "num_live_matches": 1
+  },
+  {
+    "id": 25,
+    "image": "darts.svg",
+    "code_name": "darts",
+    "order": 48,
+    "num_matches": 15,
+    "num_live_matches": 0
+  },
+  {
+    "id": 57,
+    "image": "cycling.svg",
+    "code_name": "cycling",
+    "order": 49,
+    "num_matches": 14,
+    "num_live_matches": 0
+  },
+  {
+    "id": 66,
+    "image": "cricket.svg",
+    "code_name": "cricket",
+    "order": 50,
+    "num_matches": 19,
+    "num_live_matches": 9
+  },
+  {
+    "id": 76,
+    "image": "winter-sports.svg",
+    "code_name": "winter-sports",
+    "order": 51,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 14,
+    "image": "floorball.svg",
+    "code_name": "floorball",
+    "order": 55,
+    "num_matches": 2,
+    "num_live_matches": 0
+  },
+  {
+    "id": 62,
+    "image": "golf.svg",
+    "code_name": "golf",
+    "order": 62,
+    "num_matches": 3,
+    "num_live_matches": 0
+  },
+  {
+    "id": 27,
+    "image": "motor-sport.svg",
+    "code_name": "motor-sport",
+    "order": 63,
+    "num_matches": 21,
+    "num_live_matches": 0
+  },
+  {
+    "id": 91,
+    "image": "speedway.svg",
+    "code_name": "speedway",
+    "order": 64,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 13,
+    "image": "futsal.svg",
+    "code_name": "futsal",
+    "order": 66,
+    "num_matches": 2,
+    "num_live_matches": 1
+  },
+  {
+    "id": 16,
+    "image": "waterpolo.svg",
+    "code_name": "waterpolo",
+    "order": 72,
+    "num_matches": 6,
+    "num_live_matches": 0
+  },
+  {
+    "id": 26,
+    "image": "beach-volley.svg",
+    "code_name": "beach-volley",
+    "order": 73,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 18,
+    "image": "boxing.svg",
+    "code_name": "boxing",
+    "order": 78,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 20,
+    "image": "badminton.svg",
+    "code_name": "badminton",
+    "order": 79,
+    "num_matches": 161,
+    "num_live_matches": 0
+  },
+  {
+    "id": 31,
+    "image": "field-hockey.svg",
+    "code_name": "field-hockey",
+    "order": 80,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 29,
+    "image": "squash.svg",
+    "code_name": "squash",
+    "order": 90,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 41,
+    "image": "bandy.svg",
+    "code_name": "bandy",
+    "order": 92,
+    "num_matches": 1,
+    "num_live_matches": 0
+  },
+  {
+    "id": 32,
+    "image": "beach-soccer.svg",
+    "code_name": "beach-soccer",
+    "order": 95,
+    "num_matches": 2,
+    "num_live_matches": 0
+  },
+  {
+    "id": 104,
+    "image": "hot-bikini-league.svg",
+    "code_name": "hot-bikini-league",
+    "order": 104,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 24,
+    "image": "aussie-rules.svg",
+    "code_name": "aussie-rules",
+    "order": 1000,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 45,
+    "image": "curling.svg",
+    "code_name": "curling",
+    "order": 1000,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 53,
+    "image": "bowls.svg",
+    "code_name": "bowls",
+    "order": 1000,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 59,
+    "image": "horse-racing.svg",
+    "code_name": "horse-racing",
+    "order": 1000,
+    "num_matches": 3580,
+    "num_live_matches": 0
+  },
+  {
+    "id": 79,
+    "image": "lacrosse.svg",
+    "code_name": "lacrosse",
+    "order": 1000,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 97,
+    "image": "greyhound.svg",
+    "code_name": "greyhound",
+    "order": 1000,
+    "num_matches": 2844,
+    "num_live_matches": 0
+  },
+  {
+    "id": 100,
+    "image": "hockeyball.svg",
+    "code_name": "hockeyball",
+    "order": 1000,
+    "num_matches": 0,
+    "num_live_matches": 0
+  },
+  {
+    "id": 105,
+    "image": "e-soccer.svg",
+    "code_name": "e-soccer",
+    "order": 1000,
+    "num_matches": 1282,
+    "num_live_matches": 0
+  }
+]

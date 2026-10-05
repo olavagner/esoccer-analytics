@@ -1,0 +1,250 @@
+{
+  "langs": [
+    {
+      "id": 12,
+      "image": "gb.svg",
+      "iso": "en"
+    },
+    {
+      "id": 13,
+      "image": "cz.svg",
+      "iso": "cs"
+    },
+    {
+      "id": 15,
+      "image": "de.svg",
+      "iso": "de"
+    },
+    {
+      "id": 14,
+      "image": "pl.svg",
+      "iso": "pl"
+    },
+    {
+      "id": 16,
+      "image": "ru.svg",
+      "iso": "ru"
+    },
+    {
+      "id": 17,
+      "image": "sk.svg",
+      "iso": "sk"
+    },
+    {
+      "id": 18,
+      "image": "ro.svg",
+      "iso": "ro"
+    },
+    {
+      "id": 19,
+      "image": "es.svg",
+      "iso": "es"
+    },
+    {
+      "id": 20,
+      "image": "pt.svg",
+      "iso": "pt"
+    },
+    {
+      "id": 21,
+      "image": "fr.svg",
+      "iso": "fr"
+    },
+    {
+      "id": 22,
+      "image": "it.svg",
+      "iso": "it"
+    },
+    {
+      "id": 24,
+      "image": "tr.svg",
+      "iso": "tr"
+    },
+    {
+      "id": 25,
+      "image": "gr.svg",
+      "iso": "el"
+    },
+    {
+      "id": 36,
+      "image": "al.svg",
+      "iso": "sq"
+    },
+    {
+      "id": 38,
+      "image": "az.svg",
+      "iso": "az"
+    },
+    {
+      "id": 39,
+      "image": "ba.svg",
+      "iso": "bs"
+    },
+    {
+      "id": 28,
+      "image": "dk.svg",
+      "iso": "da"
+    },
+    {
+      "id": 41,
+      "image": "ee.svg",
+      "iso": "ee"
+    },
+    {
+      "id": 42,
+      "image": "fi.svg",
+      "iso": "fi"
+    },
+    {
+      "id": 30,
+      "image": "nl.svg",
+      "iso": "nl"
+    },
+    {
+      "id": 26,
+      "image": "hr.svg",
+      "iso": "hr"
+    },
+    {
+      "id": 32,
+      "image": "id.svg",
+      "iso": "id"
+    },
+    {
+      "id": 49,
+      "image": "lt.svg",
+      "iso": "lt"
+    },
+    {
+      "id": 48,
+      "image": "lv.svg",
+      "iso": "lv"
+    },
+    {
+      "id": 29,
+      "image": "hu.svg",
+      "iso": "hu"
+    },
+    {
+      "id": 33,
+      "image": "no.svg",
+      "iso": "no"
+    },
+    {
+      "id": 31,
+      "image": "se.svg",
+      "iso": "sv"
+    },
+    {
+      "id": 53,
+      "image": "si.svg",
+      "iso": "sl"
+    },
+    {
+      "id": 34,
+      "image": "bg.svg",
+      "iso": "bg"
+    },
+    {
+      "id": 23,
+      "image": "cn.svg",
+      "iso": "zh"
+    },
+    {
+      "id": 35,
+      "image": "vn.svg",
+      "iso": "vi"
+    },
+    {
+      "id": 37,
+      "image": "iq.svg",
+      "iso": "ar"
+    },
+    {
+      "id": 40,
+      "image": "cn.svg",
+      "iso": "zht"
+    },
+    {
+      "id": 43,
+      "image": "ge.svg",
+      "iso": "ka"
+    },
+    {
+      "id": 44,
+      "image": "ch.svg",
+      "iso": "ch"
+    },
+    {
+      "id": 45,
+      "image": "il.svg",
+      "iso": "he"
+    },
+    {
+      "id": 46,
+      "image": "jp.svg",
+      "iso": "ja"
+    },
+    {
+      "id": 47,
+      "image": "kr.svg",
+      "iso": "ko"
+    },
+    {
+      "id": 50,
+      "image": "mk.svg",
+      "iso": "mk"
+    },
+    {
+      "id": 51,
+      "image": "me.svg",
+      "iso": "me"
+    },
+    {
+      "id": 54,
+      "image": "th.svg",
+      "iso": "th"
+    },
+    {
+      "id": 55,
+      "image": "ua.svg",
+      "iso": "uk"
+    },
+    {
+      "id": 56,
+      "image": "br.svg",
+      "iso": "br"
+    },
+    {
+      "id": 57,
+      "image": "ir.svg",
+      "iso": "fa"
+    },
+    {
+      "id": 27,
+      "image": "rs.svg",
+      "iso": "sr"
+    }
+  ],
+  "client": {
+    "name": "24live",
+    "name_view": "24live",
+    "main_domain": "24live.com",
+    "parent_type": null,
+    "parent_domain": null,
+    "show_only_matches_with_odds": false,
+    "social_image": "/img/client/24live/logo-social-media.png?v5"
+  },
+  "partners": [
+    {
+      "full_name": "ByBet",
+      "partner_code_name": "bybet",
+      "domain": null,
+      "is_main_partner": 1
+    }
+  ],
+  "geolocation": {
+    "iso": "BR",
+    "paymentTier": 2
+  }
+}
